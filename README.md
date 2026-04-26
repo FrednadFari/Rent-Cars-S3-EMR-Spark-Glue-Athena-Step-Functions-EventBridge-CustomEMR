@@ -19,6 +19,7 @@ The system processes raw rental vehicle data stored in Amazon S3, transforms it 
 # Architecture Diagram
 
 ```text
+https://github.com/FrednadFari/Rent-Cars-S3-EMR-Spark-Glue-Athena-Step-Functions-EventBridge-CustomEMR/blob/main/Images/rental_vehicle_pipeline.png
 Raw CSV Files (S3)
       |
       v
